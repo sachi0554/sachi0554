@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sachidanand
 - 👀 I’m interested in coding and learing 
 - 🌱 I’m currently learning Django RestFremwork
-- 💞️ I’m looking to collaborate on some open project
+- 💞️ I’m looking to collaborate on some open source project
 - 📫 How to reach me : sachidanandupadhyay7@hotmail.com
 
 <!---
